@@ -2,7 +2,7 @@
 int main()
 {
     int a,num;
-    printf("Enter the number");
+    printf("Check even or odd");
     scanf("%d",&num);
     a=num%2;
     if(a==0)
